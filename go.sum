@@ -1,0 +1,12 @@
+github.com/CQElab/CQE-hugo-blox v0.0.0-20240614204242-e85293b5e2df h1:Rpcj9UnKG55we8BWvYleIv4jtkLdND7BZgKdT5IGcy8=
+github.com/CQElab/CQE-hugo-blox v0.0.0-20240614204242-e85293b5e2df/go.mod h1:xAeJRuToeVWxzqxU5HlqHkIO87KBXbNi8ftueiWjM8o=
+github.com/HugoBlox/all-access v0.0.0-20240519164730-c04da0219148 h1:EyDtPeUYZCfxDZE1YLds2yZilwUS/Sq3Am5WWp3cEkg=
+github.com/HugoBlox/all-access v0.0.0-20240519164730-c04da0219148/go.mod h1:J+uANL41R6r0tDLIMH0olEdkod4lsK/+Kn/TA0dImIU=
+github.com/HugoBlox/all-access/blox-all-access v0.0.0-20240519164730-c04da0219148 h1:x06AJqpWX/WBtwoY8RNVT1zbfGGU/cNks17NfFPRlJE=
+github.com/HugoBlox/all-access/blox-all-access v0.0.0-20240519164730-c04da0219148/go.mod h1:AifD8GneU4Gu9fWU2WONrTOdu+MpTqJw0TPVVWKb50s=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240602152624-676a1b20ee9f h1:8ikS1YeIwEOY3mGzS3ErRNbTXyh3XuDl+bEaeTEiAGE=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240602152624-676a1b20ee9f/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240506221655-75a42222e9a5 h1:wMqusMEAbKr9MQCfeyK7sqMrRvkZheIVyRejhvbpaTY=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240506221655-75a42222e9a5/go.mod h1:+qBbqXbKT7M2nOeHQa5OrRXwQKpEx1RXpMGirHbT7HU=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240602152624-676a1b20ee9f h1:9N62Fq22GveA0zjmvzT7nCXa1m2QTXMf5UiIOBpNAdI=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240602152624-676a1b20ee9f/go.mod h1:+qBbqXbKT7M2nOeHQa5OrRXwQKpEx1RXpMGirHbT7HU=

@@ -1,0 +1,27 @@
+{{/* Hugo Blox: Markdown */}}
+{{/* Documentation: https://hugoblox.com/blocks/ */}}
+{{/* License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $title := $block.content.title | emojify | $page.RenderString }}
+{{ $text := $block.content.text | emojify | $page.RenderString | safeHTML }}
+
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
+
+  {{ if $block.content.announcement.text }}
+    {{ $announcement := $block.content.announcement }}
+    <div class="hidden sm:mb-8 sm:flex sm:justify-center">
+      <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 dark:text-gray-300 ring-1 ring-gray-900/10 dark:ring-gray-300 hover:ring-gray-900/20 dark:hover:ring-gray-400">
+        {{$announcement.text | markdownify}} {{if $announcement.link.text}}<a href="{{$announcement.link.url}}" class="font-semibold text-primary-600 dark:text-primary-300"><span class="absolute inset-0" aria-hidden="true"></span>{{$announcement.link.text}} <span aria-hidden="true">&rarr;</span></a>{{end}}
+      </div>
+    </div>
+    {{end}}
+
+  <div class="text-center">
+      {{ with $block.content.title }}<h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-6xl">{{ . | markdownify }}</h1>{{end}}
+      {{ with $block.content.text }}<p class="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">{{ . | $page.RenderString | emojify }}</p>{{end}}
+  </div>
+  
+</div>
