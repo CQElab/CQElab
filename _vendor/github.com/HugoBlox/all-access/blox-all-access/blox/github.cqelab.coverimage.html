@@ -9,7 +9,6 @@
 {{ $text := $block.content.text | emojify | $page.RenderString | safeHTML }}
 
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
-
   {{ if $block.content.announcement.text }}
     {{ $announcement := $block.content.announcement }}
     <div class="hidden sm:mb-8 sm:flex sm:justify-center">
@@ -17,11 +16,11 @@
         {{$announcement.text | markdownify}} {{if $announcement.link.text}}<a href="{{$announcement.link.url}}" class="font-semibold text-primary-600 dark:text-primary-300"><span class="absolute inset-0" aria-hidden="true"></span>{{$announcement.link.text}} <span aria-hidden="true">&rarr;</span></a>{{end}}
       </div>
     </div>
-    {{end}}
+  {{end}}
 
   <div class="text-center">
-      {{ with $block.content.title }}<h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-6xl">{{ . | markdownify }}</h1>{{end}}
-      {{ with $block.content.text }}<p class="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">{{ . | $page.RenderString | emojify }}</p>{{end}}
+    {{ with $block.content.title }}<h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-6xl">{{ . | markdownify }}</h1>{{end}}
+    {{ with $block.content.text }}<p class="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">{{ . | $page.RenderString | emojify }}</p>{{end}}
   </div>
   
 </div>

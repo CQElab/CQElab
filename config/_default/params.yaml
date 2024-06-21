@@ -50,7 +50,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024-{year} CQE Lab - All Rights Reserved'
+    notice: '© {year} CQE Lab - All Rights Reserved'
     license:
       enable: false
       allow_derivatives: false

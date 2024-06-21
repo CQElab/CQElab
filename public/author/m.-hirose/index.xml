@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Hirose | CQE Lab@UW</title>
-    <link>https://example.com/author/m.-hirose/</link>
-      <atom:link href="https://example.com/author/m.-hirose/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/m.-hirose/</link>
+      <atom:link href="http://localhost:1313/author/m.-hirose/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Hirose</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
       <title>M. Hirose</title>
-      <link>https://example.com/author/m.-hirose/</link>
+      <link>http://localhost:1313/author/m.-hirose/</link>
     </image>
     
     <item>
       <title>Measurement of transverse hyperfine interaction by forbidden transitions</title>
-      <link>https://example.com/publication/chen2015/</link>
+      <link>http://localhost:1313/publication/chen2015/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chen2015/</guid>
+      <guid>http://localhost:1313/publication/chen2015/</guid>
       <description></description>
     </item>
     
