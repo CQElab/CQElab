@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H. Li | CQE Lab@UW</title>
-    <link>http://localhost:1313/author/h.-li/</link>
-      <atom:link href="http://localhost:1313/author/h.-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/h.-li/</link>
+      <atom:link href="https://example.com/author/h.-li/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Li</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Oct 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
       <title>H. Li</title>
-      <link>http://localhost:1313/author/h.-li/</link>
+      <link>https://example.com/author/h.-li/</link>
     </image>
     
     <item>
       <title>All-optically-controlled nanoparticle transporting and manipulating at SOI waveguide intersections</title>
-      <link>http://localhost:1313/publication/li2012/</link>
+      <link>https://example.com/publication/li2012/</link>
       <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li2012/</guid>
+      <guid>https://example.com/publication/li2012/</guid>
       <description></description>
     </item>
     

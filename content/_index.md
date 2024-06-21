@@ -24,7 +24,7 @@ sections:
         color: transparent
         image:
           # Add your image background to `assets/media/`.
-          filename: welcome.jpg
+          filename: welcome.gif
           filters:
             brightness: 0.4
           size: cover
