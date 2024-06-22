@@ -9,7 +9,7 @@ design:
   spacing: "4rem"
 
 sections:
-  - block: hero
+  - block: 'github.cqelab.coverimage'
     content:
       title: Chen Quantum Engineering Lab
       text: University of Washington
@@ -24,7 +24,7 @@ sections:
         color: transparent
         image:
           # Add your image background to `assets/media/`.
-          filename: welcome.gif
+          filename: SCQ_circuit.jpg
           filters:
             brightness: 0.4
           size: cover
