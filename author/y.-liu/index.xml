@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y. Liu | CQE Lab@UW</title>
-    <link>https://github.com/CQElab/cqelab.github.io/author/y.-liu/</link>
-      <atom:link href="https://github.com/CQElab/cqelab.github.io/author/y.-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cqelab.github.io/author/y.-liu/</link>
+      <atom:link href="https://cqelab.github.io/author/y.-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Liu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/CQElab/cqelab.github.io/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cqelab.github.io/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
       <title>Y. Liu</title>
-      <link>https://github.com/CQElab/cqelab.github.io/author/y.-liu/</link>
+      <link>https://cqelab.github.io/author/y.-liu/</link>
     </image>
     
     <item>
       <title>Repetitive readout enhanced by machine learning</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/liu2020/</link>
+      <link>https://cqelab.github.io/publication/liu2020/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/liu2020/</guid>
+      <guid>https://cqelab.github.io/publication/liu2020/</guid>
       <description></description>
     </item>
     

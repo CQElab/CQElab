@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | CQE Lab@UW</title>
-    <link>https://github.com/CQElab/cqelab.github.io/publication/</link>
-      <atom:link href="https://github.com/CQElab/cqelab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cqelab.github.io/publication/</link>
+      <atom:link href="https://cqelab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/CQElab/cqelab.github.io/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cqelab.github.io/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/</link>
+      <link>https://cqelab.github.io/publication/</link>
     </image>
     
     <item>
       <title>Phonon engineering of atomic-scale defects in superconducting quantum circuits</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/chen2023/</link>
+      <link>https://cqelab.github.io/publication/chen2023/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/chen2023/</guid>
+      <guid>https://cqelab.github.io/publication/chen2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing Temperature and Strain Variations with Qubit Ensembles for Their Robust Coherence Protection</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/wang2023/</link>
+      <link>https://cqelab.github.io/publication/wang2023/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/wang2023/</guid>
+      <guid>https://cqelab.github.io/publication/wang2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A geometric perspective: experimental evaluation of the quantum Cramer-Rao bound</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/li2022/</link>
+      <link>https://cqelab.github.io/publication/li2022/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/li2022/</guid>
+      <guid>https://cqelab.github.io/publication/li2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A synthetic monopole source of Kalb-Ramond field in diamond</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/chen2022/</link>
+      <link>https://cqelab.github.io/publication/chen2022/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/chen2022/</guid>
+      <guid>https://cqelab.github.io/publication/chen2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting solid-state spins from a strongly coupled environment</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/coto2021/</link>
+      <link>https://cqelab.github.io/publication/coto2021/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/coto2021/</guid>
+      <guid>https://cqelab.github.io/publication/coto2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repetitive readout enhanced by machine learning</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/liu2020/</link>
+      <link>https://cqelab.github.io/publication/liu2020/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/liu2020/</guid>
+      <guid>https://cqelab.github.io/publication/liu2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Quantum Error Correction of Dephasing Induced by a Common Fluctuator</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/layden2020/</link>
+      <link>https://cqelab.github.io/publication/layden2020/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/layden2020/</guid>
+      <guid>https://cqelab.github.io/publication/layden2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All-Optical Quantum Sensing of Rotational Brownian Motion of Magnetic Molecules</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/li2019/</link>
+      <link>https://cqelab.github.io/publication/li2019/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/li2019/</guid>
+      <guid>https://cqelab.github.io/publication/li2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting solid-state spins from a strongly coupled environment</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/chen2018/</link>
+      <link>https://cqelab.github.io/publication/chen2018/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/chen2018/</guid>
+      <guid>https://cqelab.github.io/publication/chen2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement of transverse hyperfine interaction by forbidden transitions</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/chen2015/</link>
+      <link>https://cqelab.github.io/publication/chen2015/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/chen2015/</guid>
+      <guid>https://cqelab.github.io/publication/chen2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All-optically-controlled nanoparticle transporting and manipulating at SOI waveguide intersections</title>
-      <link>https://github.com/CQElab/cqelab.github.io/publication/li2012/</link>
+      <link>https://cqelab.github.io/publication/li2012/</link>
       <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://github.com/CQElab/cqelab.github.io/publication/li2012/</guid>
+      <guid>https://cqelab.github.io/publication/li2012/</guid>
       <description></description>
     </item>
     
