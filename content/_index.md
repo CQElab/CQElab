@@ -31,25 +31,6 @@ sections:
           position: center
           parallax: false
 
-  - block: 'github.cqelab.stats'
-    content:
-      items:
-        - statistic:
-          description: |
-            Quantum Devices and Materials
-        - statistic: 
-          description: |
-            Quantum Control and Sensing
-        - statistic: 
-          description: |
-            Quantum Computation
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-
   - block: 'github.cqelab.markdown'
     content:
       title: ""
