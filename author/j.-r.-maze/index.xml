@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. R. Maze | CQE Lab@UW</title>
-    <link>https://cqelab.github.io/author/j.-r.-maze/</link>
-      <atom:link href="https://cqelab.github.io/author/j.-r.-maze/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/CQElab/cqelab.github.io/author/j.-r.-maze/</link>
+      <atom:link href="https://github.com/CQElab/cqelab.github.io/author/j.-r.-maze/index.xml" rel="self" type="application/rss+xml" />
     <description>J. R. Maze</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cqelab.github.io/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/CQElab/cqelab.github.io/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
       <title>J. R. Maze</title>
-      <link>https://cqelab.github.io/author/j.-r.-maze/</link>
+      <link>https://github.com/CQElab/cqelab.github.io/author/j.-r.-maze/</link>
     </image>
     
     <item>
       <title>Protecting solid-state spins from a strongly coupled environment</title>
-      <link>https://cqelab.github.io/publication/coto2021/</link>
+      <link>https://github.com/CQElab/cqelab.github.io/publication/coto2021/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cqelab.github.io/publication/coto2021/</guid>
+      <guid>https://github.com/CQElab/cqelab.github.io/publication/coto2021/</guid>
       <description></description>
     </item>
     
