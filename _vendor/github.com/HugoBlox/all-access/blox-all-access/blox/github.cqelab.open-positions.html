@@ -13,7 +13,7 @@
     {{ $block.content.title | emojify | $page.RenderString }}
   </div>
 
-  {{ with $block.content.text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . | emojify | $page.RenderString }}</div>{{ end }}
+  {{ with $block.content.text }}<div class="font-light prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . | emojify | $page.RenderString }}</div>{{ end }}
 </div>
 {{ end }}
 
@@ -33,7 +33,7 @@
                     class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span
                     class="relative z-10">{{.title}}</span></a>
                 </h2>
-                <p class="relative z-10 mt-2 text-lg text-neutral-600 dark:text-neutral-400">
+                <p class="relative z-10 mt-2 text-lg font-light text-neutral-600 dark:text-neutral-400">
                   {{.description | markdownify }}
                 </p>
               </li>

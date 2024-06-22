@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position
 role: Assistant Professor of Materials Science & Engineering
@@ -101,4 +101,4 @@ sections:
           parallax: false
 ---
 
-Mo Chen is an Assistant Professor in the Department of Materials Science & Engineering at the University of Washington. As an experimentalist, his interests span Quantum Devices and Materials, Quantum Control and Sensing, and Quantum Computing. When he's not advancing the frontiers of quantum science, you might find him snowboarding in the mountains during the winter season.
+Mo Chen is an incoming Assistant Professor in the Department of Materials Science & Engineering at the University of Washington. As an experimentalist, his interests span Quantum Devices and Materials, Quantum Control and Sensing, and Quantum Computing. When he's not advancing the frontiers of quantum science, you might find him snowboarding in the mountains during the winter season.
