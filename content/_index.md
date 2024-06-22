@@ -9,7 +9,7 @@ design:
   spacing: "4rem"
 
 sections:
-  - block: hero-with-stats
+  - block: hero
     content:
       title: Chen Quantum Engineering Lab
       text: University of Washington
