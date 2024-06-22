@@ -58,9 +58,19 @@ The generated files will be in the public/ directory.
 
 To deploy the site, you can use platforms like Netlify, GitHub Pages, or any static site hosting service. For example, to deploy with GitHub Pages:
 
+- Change `baseURL` in `hugo.yaml` to your custom url.
+- Add the following lines to `package.json`
+```
+"scripts": {
+    "deploy": "hugo -D && gh-pages -d public"
+  }
+```
 - Push your repository to GitHub.
-- Set up GitHub Pages to `Source: Deploy form a branch`, and `Branch: gh-pages`
-- In command line, run ```npm run deploy```
+- Set up GitHub Pages to `Source: Deploy form a branch`, and set `Branch` to `gh-pages`
+- In command line, run 
+```
+npm run deploy
+```
 
 Also read [this](https://jedyang.com/post/how-to-build-academic-research-group-website-in-2021/) for automatic deployment.
 
