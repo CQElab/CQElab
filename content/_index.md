@@ -27,7 +27,7 @@ sections:
           filename: SCQ_circuit.jpg
           filters:
             brightness: 0.4
-          size: cover
+          size: contain
           position: center
           parallax: false
 
