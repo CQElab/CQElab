@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CQE News | CQE Lab@UW</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cqelab.github.io/post/</link>
+      <atom:link href="https://cqelab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>CQE News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cqelab.github.io/media/icon_hu7a6250c5a15096aebb6a54d272ade87d_8264_512x512_fill_lanczos_center_3.png</url>
       <title>CQE News</title>
-      <link>https://example.com/post/</link>
+      <link>https://cqelab.github.io/post/</link>
     </image>
     
     <item>
       <title>🎉 Chen Quantum Engineering (CQE) Lab officially starts!</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>https://cqelab.github.io/post/get-started/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>https://cqelab.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
-&lt;p&gt;Dr. Mo Chen is joining the Department of Materials Science &amp;amp; Engineering at the University of Washington as an Assistant Professor in September, 2024. CQE Lab will focus on advancing solid-state quantum technologies from a materials science and device physics point of view. If you are passionate about experimental quantum science and engineering, and would love to turn your novel ideas into real working devices, please contact &lt;a href=&#34;mailto:chenmo@caltech.edu&#34;&gt;Prof. Chen&lt;/a&gt; for potential opportunities. More details could be found &lt;a href=&#34;https://example.com/opportunities/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dr. Mo Chen is joining the Department of Materials Science &amp;amp; Engineering at the University of Washington as an Assistant Professor in September, 2024. CQE Lab will focus on advancing solid-state quantum technologies from a materials science and device physics point of view. If you are passionate about experimental quantum science and engineering, and would love to turn your novel ideas into real working devices, please contact &lt;a href=&#34;mailto:chenmo@caltech.edu&#34;&gt;Prof. Chen&lt;/a&gt; for potential opportunities. More details could be found &lt;a href=&#34;https://cqelab.github.io/opportunities/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
