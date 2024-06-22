@@ -36,11 +36,11 @@ sections:
       title: ""
       subtitle: ''
       text: |-
-        We are an upcoming research lab at the University of Washington. Our aim is to advance **Quantum Science and Engineering** through the experimental and theoretical study of solid-state platforms spanning **Superconducting quantum circuits**, **atomic-scale defect centers**, and **nanophononics**. 
+        We are an upcoming research lab at the University of Washington! Our goal is to advance **Quantum Science and Engineering** through both experimental and theoretical exploration of solid-state platforms, including **Superconducting quantum circuits**, **atomic-scale defect centers**, and **nanophononics**. 
 
-        Our group operates at the boundary of experiment and theory. Through a co-design process, we seek to 1) develop a profound understanding of quantum device physics and materials challenges, and 2) to build enabling next-generation solid-state quantum devices for quantum computation, quantum sensing, and quantum communication. Check out our [research](projects/) page for more information.
+        Our research is interdisciplinary, bringing together expertise from quantum information, materials science, applied physics, microwave engineering, and nanofabrication. Through a co-design process, we aim to 1) develop a profound understanding of quantum device physics and the associated materials challenges, and 2) innovate the next-generation of solid-state quantum devices for quantum computation, quantum sensing, and quantum communication. Check out our [research](projects/) page for more information.
 
-        We are a highly interdisciplinary group, with backgrounds in materials science, mechanical engineering, electrical engineering, and physics. We are always looking for talented and motivated students and postdocs to join our group. Check our [open positions](opportunities/) page for more information.
+        Are you passionate about experimental quantum science and engineering? Do you want to turn your novel ideas into real working devices? Our group welcomes bright, curious, and motivated students and postdocs from diverse backgrounds! Please check our [open positions](opportunities/) page and contact [Prof. Chen](mailto:chenmo@caltech.edu) for more information.
     design:
       spacing:
         padding: [0, 0, 0, 0]

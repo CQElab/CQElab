@@ -101,4 +101,4 @@ sections:
           parallax: false
 ---
 
-Mo Chen is an Assistant Professor in MSE at UW. Mo is an experimentalist interested in Quantum Devices and Materials, Quantum Control and Sensing, and Quantum Computing. In winter, you may find him snowboarding in the mountain.
+Mo Chen is an Assistant Professor in the Department of Materials Science & Engineering at the University of Washington. As an experimentalist, his interests span Quantum Devices and Materials, Quantum Control and Sensing, and Quantum Computing. When he's not advancing the frontiers of quantum science, you might find him snowboarding in the mountains during the winter season.

@@ -14,7 +14,7 @@ sections:
       items:
         - title: Superconducting Qubits
           text: |-
-            Our superconducting qubit is a nano-fabricated electrical circuit made of superconducting aluminum thin-film structures on a high-resistivity Silicon substrate. When the device is cooled down to very close to absolute zero temperature (~10 mK) in our dilution refrigerators, it operates in the quantum regime, acting like an artificial atom, or in other words, a quantum bit (qubit). 
+            Our superconducting qubit is a nano-fabricated electrical circuit made of superconducting aluminum thin-film structures on a high-resistivity silicon substrate. When the device is cooled down to very close to absolute zero temperature (~10 mK) in our dilution refrigerators, it operates in the quantum regime, acting like an artificial atom, or in other words, a quantum bit (qubit). 
             <br><br>
             We have the freedom to design Hamiltonian parameters for individual qubits (imagine creating your own periodic table for these artificial atoms!), and for the interaction between qubits. We develop exquisite quantum control of qubits and create distinct quantum phenomena like superposition and entanglement, using on-chip microwave circuits and room temperature electronics like arbitrary waveform generators, IQ mixers, and FPGAs. 
 
