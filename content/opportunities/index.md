@@ -11,8 +11,8 @@ sections:
       title: "Open Positions"
       subtitle: ""
       text: |-
-        We are always looking for talented, curious, and highly-motivated students and postdocs to join us!<br><br>
-
+        We are always looking for talented, curious, and highly-motivated students and postdocs to join us!
+        
         What to expect at the CQE Lab:
         - A great opportunity for young scholars to join one of the most exciting research fields that could bring fundamental changes.
         - Unique opportunities for intersciplinary collaborations with world-class quantum researchers at UW and beyond.
