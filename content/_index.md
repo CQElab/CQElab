@@ -24,10 +24,10 @@ sections:
         color: transparent
         image:
           # Add your image background to `assets/media/`.
-          filename: SCQ_circuit.jpg
+          filename: welcome.gif
           filters:
             brightness: 0.4
-          size: contain
+          size: cover
           position: center
           parallax: false
 
