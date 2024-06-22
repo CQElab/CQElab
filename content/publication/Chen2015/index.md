@@ -21,7 +21,7 @@ publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 92, 020101(R) (2015)"
+publication: "_Phys. Rev. B_ **92**, 020101(R) (2015)"
 
 abstract: Precise characterization of a system's Hamiltonian is crucial to its high-fidelity control that would enable many quantum technologies, ranging from quantum computation to communication and sensing. In particular, non-secular parts of the Hamiltonian are usually more difficult to characterize, even if they can give rise to subtle but non-negligible effects. Here we present a strategy for the precise estimation of the transverse hyperfine coupling between an electronic and a nuclear spin, exploiting effects due to forbidden transitions during the Rabi driving of the nuclear spin. We applied the method to precisely determine the transverse coupling between a Nitrogen-Vacancy center electronic spin and its Nitrogen nuclear spin. In addition, we show how this transverse hyperfine, that has been often neglected in experiments, is crucial to achieving large enhancements of the nuclear Rabi driving.
 

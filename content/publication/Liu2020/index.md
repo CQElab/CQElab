@@ -23,7 +23,7 @@ publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mach. Learn.: Sci. Technol. 1 015003 (2020)"
+publication: "_Mach. Learn.: Sci. Technol._ **1** 015003 (2020)"
 
 abstract: Single-shot readout is a key component for scalable quantum information processing. However, many solid-state qubits with favorable properties lack the single-shot readout capability. One solution is to use the repetitive quantum-non-demolition readout technique, where the qubit is correlated with an ancilla, which is subsequently read out. The readout fidelity is therefore limited by the back-action on the qubit from the measurement. Traditionally, a threshold method is taken, where only the total photon count is used to discriminate qubit state, discarding all the information of the back-action hidden in the time trace of repetitive readout measurement. Here we show by using machine learning (ML), one obtains higher readout fidelity by taking advantage of the time trace data. ML is able to identify when back-action happened, and correctly read out the original state. Since the information is already recorded (but usually discarded), this improvement in fidelity does not consume additional experimental time, and could be directly applied to preparation-by-measurement and quantum metrology applications involving repetitive readout.
 

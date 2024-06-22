@@ -19,7 +19,7 @@ publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Quantum Sci. Technol. 6 035011 (2021)"
+publication: "_Quantum Sci. Technol._ **6**, 035011 (2021)"
 
 abstract: Solid-state magnetometers like the nitrogen-vacancy (NV) center in diamond have been of paramount importance for the development of quantum sensing with nanoscale spatial resolution. The underlying protocol is a Ramsey sequence, that imprints an external static magnetic field into the phase of the quantum sensor, which is subsequently read out. In this theoretical work we propose a sensing scheme that harnesses the hyperfine coupling between the NV center and a nearby nuclear spin to set a post-selection protocol. We show that concentrating valuable sensing information into a single successful measurement yields an improvement in sensitivity over Ramsey in the range of short transverse relaxation times. By considering realistic experimental conditions, we found that the detection of weak magnetic fields in the $\mu$T range can be achieved with a sensitivity of few tens of nTHz$^{−1/2}$ at cryogenic temperature (4 K), and $\mu$THz$^{−1/2}$ at room temperature.
 

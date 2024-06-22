@@ -21,7 +21,7 @@ publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Opt. Express 20, 24160 (2012)"
+publication: "_Opt. Express_ **20**, 24160 (2012)"
 
 abstract: All-optically controlled nanoparticle manipulating units based on optical waveguide intersections are designed and their performance on nanoparticle trapping, redirecting, sorting and binding force measurement are theoretically analyzed. Our calculation shows that these simple units have trapping abilities comparable with most near field trapping tools and are capable of realizing multiple sorting and analyzing functions.
 

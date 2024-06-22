@@ -18,7 +18,7 @@ publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nano Lett. 19, 7342 (2019)"
+publication: "_Nano Lett._ **19**, 7342 (2019)"
 
 abstract: Sensing the local environment through the motional response of small molecules lays the foundation of many fundamental technologies. The information on local viscosity, for example, is contained in the random rotational Brownian motions of molecules. However, detection of the motions is challenging for molecules with sub-nanometer scale or high motional rates. Here we propose and experimentally demonstrate a novel method of detecting fast rotational Brownian motions of small magnetic molecules. With electronic spins as sensors, we are able to detect changes in motional rates, which yield different noise spectra and therefore different relaxation signals of the sensors. As a proof-of-principle demonstration, we experimentally implemented this method to detect the motions of gadolinium (Gd) complex molecules with nitrogen-vacancy (NV) centers in nanodiamonds. With all-optical measurements of the NV centers’ longitudinal relaxation, we distinguished binary solutions with varying viscosities. Our method paves a new way for detecting fast motions of sub-nanometer sized magnetic molecules with better spatial resolution than conventional optical methods. It also provides a new tool in designing better contrast agents in magnetic resonance imaging.
 

@@ -23,7 +23,7 @@ publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Lett. 131, 043602 (2023)"
+publication: "_Phys. Rev. Lett._ **131**, 043602 (2023)"
 
 abstract: Solid-state spin defects, especially nuclear spins with potentially achievable long coherence times, are compelling candidates for quantum memories and sensors. However, their current performances are still limited by dephasing due to variations of their intrinsic quadrupole and hyperfine interactions. We propose an unbalanced echo to overcome this challenge by using a second spin to refocus variations of these interactions while preserving the quantum information stored in the nuclear spin free evolution. The unbalanced echo can be used to probe the temperature and strain distribution in materials. We develop first-principles methods to predict variations of these interactions and reveal their correlation over large temperature and strain ranges. Experiments performed in an ensemble of $\sim10^{10}$ nuclear spins in diamond demonstrate a 20-fold dephasing time increase, limited by other noise sources. We further numerically show that our method can refocus even stronger noise variations than present in our experiments.
 
