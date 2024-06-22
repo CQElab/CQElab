@@ -11,7 +11,7 @@ sections:
       title: "Open Positions"
       subtitle: ""
       text: |-
-        We are always looking for talented, curious, and highly-motivated students and postdocs to join us!
+        We are looking for talented, curious, and highly-motivated students and postdocs to join us!
         
         What to expect at CQE Lab:
         - **Unique Research Opportunities:** Join one of the most exciting research fields, driving fundamental changes in science & technology.
