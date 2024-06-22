@@ -14,20 +14,15 @@ sections:
         We are always looking for talented, curious, and highly-motivated students and postdocs to join us!<br><br>
 
         What to expect at the CQE Lab:
-        - *A great opportunity for young scholars to join one of the most exciting research fields that could bring fundamental changes.
-        - *Unique opportunities for intersciplinary collaborations with world-class quantum researchers at UW and beyond.
-        - *Cultivating and inclusive environment for next-generation quantum researchers (you!) to grow and thrive.
-        - *Rich culture and entertainment at Seattle and beautiful nature in the state of Washington that one can enjoy everyday!
+        - A great opportunity for young scholars to join one of the most exciting research fields that could bring fundamental changes.
+        - Unique opportunities for intersciplinary collaborations with world-class quantum researchers at UW and beyond.
+        - Cultivating and inclusive environment for next-generation quantum researchers (you!) to grow and thrive.
+        - Rich culture and entertainment at Seattle and beautiful nature in the state of Washington that one can enjoy everyday!
 
-        
-        <br><br>
-
-        For all inquiries, applicants should submit the following materials to **[Mo Chen](mailto:chenmo@caltech.edu)**, with title "[postdoc/PhD/undergrad] position at CQE: inquiry from [your name]". 
-        - i\) CV; 
-        - ii\) a brief statement of research interests and goals;
-        - iii\) (for postdocs only) contact information of at least two references. 
-
-        
+        For all inquiries, applicants should submit the following materials to **[Mo Chen](mailto:chenmo@caltech.edu)**, with title "[postdoc/PhD/undergrad]@CQE: inquiry from [your name]". 
+        - CV; 
+        - a brief statement of research interests and goals;
+        - (for postdocs only) contact information of at least two references. 
 
       items:
         - title: Postdoctoral scholars

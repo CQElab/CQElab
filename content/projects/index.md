@@ -46,7 +46,7 @@ sections:
           image: TF_schematic.png
           url: ''
 
-  - block: resume-projects
+  - block: 'github.cqelab.resume-projects'
     content:
       title: Nanophononics
       text: |-

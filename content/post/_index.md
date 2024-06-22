@@ -1,4 +1,4 @@
 ---
-title: News
+title: CQE News
 view: article-grid
 ---

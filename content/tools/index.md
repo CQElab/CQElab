@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-projects
+  - block: 'github.cqelab.resume-projects'
     content:
       title: Coming soon!
       text: |-

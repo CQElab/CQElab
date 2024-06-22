@@ -66,7 +66,7 @@ sections:
 
   - block: 'github.cqelab.collection'
     content:
-      title: Recent News
+      title: Recent CQE News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

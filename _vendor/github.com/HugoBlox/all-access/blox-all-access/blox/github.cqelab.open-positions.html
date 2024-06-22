@@ -7,13 +7,13 @@
 {{ $block := .wcBlock }}
 
 {{ if $block.content.title }}
-<div class="flex flex-col items-center max-w-screen-md mx-auto gap-3 justify-center">
+<div class="flex flex-col items-center sm:max-w-xl md:max-w-full lg:max-w-screen-xl mx-auto gap-3 justify-center">
 
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
     {{ $block.content.title | emojify | $page.RenderString }}
   </div>
 
-  {{ with $block.content.text }}<div>{{ . | emojify | $page.RenderString }}</div>{{ end }}
+  {{ with $block.content.text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . | emojify | $page.RenderString }}</div>{{ end }}
 </div>
 {{ end }}
 
@@ -26,14 +26,14 @@
             <ul class="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-2" role="list">
               {{ range $idx, $key := $block.content.items }}
               <li class="group relative flex flex-col items-start">
-                <h2 class="mt-6 text-base font-semibold text-neutral-800 dark:text-neutral-100">
+                <h2 class="mt-6 text-xl font-semibold text-neutral-800 dark:text-neutral-100">
                   <div
                     class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-neutral-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-neutral-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
                   <a href="{{.url}}" target="_blank" rel="noopener"><span
                     class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span
                     class="relative z-10">{{.title}}</span></a>
                 </h2>
-                <p class="relative z-10 mt-2 text-sm text-neutral-600 dark:text-neutral-400">
+                <p class="relative z-10 mt-2 text-lg text-neutral-600 dark:text-neutral-400">
                   {{.description | markdownify }}
                 </p>
               </li>
