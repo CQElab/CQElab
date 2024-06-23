@@ -26,7 +26,7 @@ sections:
 
       items:
         - title: Postdoctoral scholars
-          description: 1 position available. We seek outstanding individuals with strong demonstrated skills in at least one of the following fields a) Experimental quantum science & engineering; b) Acoustics/MEMS; c) Nanofabrication.
+          description: 1 position available. We seek outstanding individuals with strong demonstrated skills in at least one of the following fields a) Experimental quantum science & engineering; b) Nanophononics/acoustics/MEMS; c) Nanofabrication.
           url: ''
         - title: Graduate and undergraduate students
           description: We are always looking for motivated PhD and undergraduate students. If you are passionate about quantum science & engineering, and come from a relevant science and/or engineering fields, we welcome you to reach out to Prof. Chen regarding potential opportunities.
