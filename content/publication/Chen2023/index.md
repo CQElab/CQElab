@@ -25,7 +25,7 @@ abstract: Noise within solid-state systems at low temperatures, where many of th
 
 tags:
 - Noise and Coherence
-- Quantum Quantum and Sensing
+- Quantum Control and Sensing
 - Nanoscale Engineering
 featured: false
 

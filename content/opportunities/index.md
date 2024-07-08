@@ -19,7 +19,7 @@ sections:
         - **Cultivating Environment:** Support next-generation quantum researchers (you!) to grow, thrive, and succeed.
         - **Great Location:** Enjoy a perfect balance of work and life, with the rich culture and entertainment of Seattle, and the natural beauty of Washington state.
 
-        For all inquiries, applicants should submit the following materials to **[Mo Chen](mailto:chenmo@caltech.edu)**, with title "[postdoc/PhD/undergrad]@CQE: inquiry from [your name]". 
+        For all inquiries, applicants should submit the following materials to **[Mo Chen](mailto:chenmo@uw.edu)**, with title "[postdoc/PhD/undergrad]@CQE: inquiry from [your name]". 
         - CV
         - Brief statement of research interests and goals
         - (For postdocs only) Contact information of at least two references

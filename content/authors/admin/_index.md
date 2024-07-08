@@ -28,7 +28,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:chenmo@caltech.edu'
+    url: 'mailto:chenmo@uw.edu'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=nfkyVc4AAAAJ&hl=en
