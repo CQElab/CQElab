@@ -2,262 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://cqelab.github.io/authors/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/get-started/</loc>
+    <loc>https://cqelab.github.io/post/get-started/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://cqelab.github.io/post/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/mo-chen/</loc>
+    <loc>https://cqelab.github.io/author/mo-chen/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://cqelab.github.io/tags/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/team/</loc>
+    <loc>https://cqelab.github.io/tags/team/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://cqelab.github.io/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/opportunities/</loc>
+    <loc>https://cqelab.github.io/opportunities/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://cqelab.github.io/projects/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tools/</loc>
+    <loc>https://cqelab.github.io/tools/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/team/</loc>
+    <loc>https://cqelab.github.io/team/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
+    <loc>https://cqelab.github.io/publication_types/article/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/h.-putterman/</loc>
+    <loc>https://cqelab.github.io/author/h.-putterman/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/j.-c.-owens/</loc>
+    <loc>https://cqelab.github.io/author/j.-c.-owens/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/m.-schafer/</loc>
+    <loc>https://cqelab.github.io/author/m.-schafer/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nanoscale-engineering/</loc>
+    <loc>https://cqelab.github.io/tags/nanoscale-engineering/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/noise-and-coherence/</loc>
+    <loc>https://cqelab.github.io/tags/noise-and-coherence/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/o.-painter/</loc>
+    <loc>https://cqelab.github.io/author/o.-painter/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/chen2023/</loc>
+    <loc>https://cqelab.github.io/publication/chen2023/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://cqelab.github.io/publication_types/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://cqelab.github.io/publication/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/quantum-control-and-sensing/</loc>
+    <loc>https://cqelab.github.io/tags/quantum-control-and-sensing/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/a.-r.-barr/</loc>
+    <loc>https://cqelab.github.io/author/a.-r.-barr/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/a.-stasiuk/</loc>
+    <loc>https://cqelab.github.io/author/a.-stasiuk/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <loc>https://cqelab.github.io/publication_types/article-journal/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/c.-li/</loc>
+    <loc>https://cqelab.github.io/author/c.-li/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/wang2023/</loc>
+    <loc>https://cqelab.github.io/publication/wang2023/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/g.-wang/</loc>
+    <loc>https://cqelab.github.io/author/g.-wang/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/h.-tang/</loc>
+    <loc>https://cqelab.github.io/author/h.-tang/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/h.-xu/</loc>
+    <loc>https://cqelab.github.io/author/h.-xu/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/j.-li/</loc>
+    <loc>https://cqelab.github.io/author/j.-li/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/p.-cappellaro/</loc>
+    <loc>https://cqelab.github.io/author/p.-cappellaro/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/li2022/</loc>
+    <loc>https://cqelab.github.io/publication/li2022/</loc>
     <lastmod>2022-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/chen2022/</loc>
+    <loc>https://cqelab.github.io/publication/chen2022/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/g.-palumbo/</loc>
+    <loc>https://cqelab.github.io/author/g.-palumbo/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/n.-goldman/</loc>
+    <loc>https://cqelab.github.io/author/n.-goldman/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/quantum-simulation/</loc>
+    <loc>https://cqelab.github.io/tags/quantum-simulation/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/y.-zhu/</loc>
+    <loc>https://cqelab.github.io/author/y.-zhu/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/a.-norambuena/</loc>
+    <loc>https://cqelab.github.io/author/a.-norambuena/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/h.-t.-dinani/</loc>
+    <loc>https://cqelab.github.io/author/h.-t.-dinani/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/j.-r.-maze/</loc>
+    <loc>https://cqelab.github.io/author/j.-r.-maze/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/coto2021/</loc>
+    <loc>https://cqelab.github.io/publication/coto2021/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/r.-coto/</loc>
+    <loc>https://cqelab.github.io/author/r.-coto/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/d.-layden/</loc>
+    <loc>https://cqelab.github.io/author/d.-layden/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/g.-liu/</loc>
+    <loc>https://cqelab.github.io/author/g.-liu/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/liu2020/</loc>
+    <loc>https://cqelab.github.io/publication/liu2020/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/y.-liu/</loc>
+    <loc>https://cqelab.github.io/author/y.-liu/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/layden2020/</loc>
+    <loc>https://cqelab.github.io/publication/layden2020/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/li2019/</loc>
+    <loc>https://cqelab.github.io/publication/li2019/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/d.-lyzwa/</loc>
+    <loc>https://cqelab.github.io/author/d.-lyzwa/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/j.-c.-jaskula/</loc>
+    <loc>https://cqelab.github.io/author/j.-c.-jaskula/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/k.-saha/</loc>
+    <loc>https://cqelab.github.io/author/k.-saha/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/chen2018/</loc>
+    <loc>https://cqelab.github.io/publication/chen2018/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/w.-k.-c.-sun/</loc>
+    <loc>https://cqelab.github.io/author/w.-k.-c.-sun/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/m.-hirose/</loc>
+    <loc>https://cqelab.github.io/author/m.-hirose/</loc>
     <lastmod>2015-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/chen2015/</loc>
+    <loc>https://cqelab.github.io/publication/chen2015/</loc>
     <lastmod>2015-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/li2012/</loc>
+    <loc>https://cqelab.github.io/publication/li2012/</loc>
     <lastmod>2012-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/h.-li/</loc>
+    <loc>https://cqelab.github.io/author/h.-li/</loc>
     <lastmod>2012-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/l.-liu/</loc>
+    <loc>https://cqelab.github.io/author/l.-liu/</loc>
     <lastmod>2012-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/l.-xu/</loc>
+    <loc>https://cqelab.github.io/author/l.-xu/</loc>
     <lastmod>2012-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/w.-shi/</loc>
+    <loc>https://cqelab.github.io/author/w.-shi/</loc>
     <lastmod>2012-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/x.-wu/</loc>
+    <loc>https://cqelab.github.io/author/x.-wu/</loc>
     <lastmod>2012-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/x.-yu/</loc>
+    <loc>https://cqelab.github.io/author/x.-yu/</loc>
     <lastmod>2012-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/lucia-de-rose/</loc>
+    <loc>https://cqelab.github.io/author/lucia-de-rose/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/this-could-be-you/</loc>
+    <loc>https://cqelab.github.io/author/this-could-be-you/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
