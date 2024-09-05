@@ -5,7 +5,7 @@ go 1.22
 toolchain go1.22.2
 
 require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240602152624-676a1b20ee9f
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240901230003-ec9127eaf80b
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240602152624-676a1b20ee9f
 )
 

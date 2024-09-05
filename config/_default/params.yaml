@@ -43,9 +43,9 @@ header:
     highlight_active_link: true
     logo:
       # Logo text
-      text: "CQE Lab @ UW MSE"
+      text: "CQE Lab@UW MSE"
       # Logo filename in `assets/media/` folder
-      filename: ""
+      filename: "logo_resized.svg"
 
 # Site footer
 footer:

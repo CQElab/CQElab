@@ -5,6 +5,7 @@
 
 title: CQE Lab@UW # Website name
 baseURL: 'https://cqelab.github.io/' # Website URL
+#baseURL: 'http://faculty.washington.edu/chenmo/' # Website URL
 
 ############################
 ## LANGUAGE

@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "aside",
@@ -8,9 +9,12 @@
       "br",
       "button",
       "circle",
+      "clippath",
+      "defs",
       "div",
       "em",
       "footer",
+      "g",
       "h1",
       "h2",
       "h3",
@@ -500,6 +504,8 @@
       "z-30"
     ],
     "ids": [
+      "clip1",
+      "clip2",
       "hide-button",
       "moon",
       "nav-menu",
@@ -524,6 +530,7 @@
       "show-button",
       "site-header",
       "sun",
+      "surface1",
       "top"
     ]
   }

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This could be you! | CQE Lab@UW</title>
-    <link>https://cqelab.github.io/author/this-could-be-you/</link>
-      <atom:link href="https://cqelab.github.io/author/this-could-be-you/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/this-could-be-you/</link>
+      <atom:link href="http://localhost:1313/author/this-could-be-you/index.xml" rel="self" type="application/rss+xml" />
     <description>This could be you!</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cqelab.github.io/author/this-could-be-you/avatar_hu53985cdc706cea6eff3bdc0eb2bfac9d_148748_270x270_fill_q80_h2_lanczos_center_2.webp</url>
+      <url>http://localhost:1313/author/this-could-be-you/avatar_hu53985cdc706cea6eff3bdc0eb2bfac9d_148748_270x270_fill_q80_h2_lanczos_center_2.webp</url>
       <title>This could be you!</title>
-      <link>https://cqelab.github.io/author/this-could-be-you/</link>
+      <link>http://localhost:1313/author/this-could-be-you/</link>
     </image>
     
   </channel>

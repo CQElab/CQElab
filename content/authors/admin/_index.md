@@ -17,12 +17,12 @@ superuser: true
 highlight_name: false
 
 # Role/position
-role: Assistant Professor of Materials Science & Engineering
+role: Assistant Professor
 
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Washington
+  - name: Materials Science and Engineering, University of Washington
     url: https://mse.washington.edu
 
 # Social network links
@@ -39,7 +39,7 @@ interests:
   - Quantum Computation
 
 education:
-  - area: Ph.D. in Quantum Science and Engineering
+  - area: Ph.D. in Mechanical Engineering
     institution: Massachusetts Institute of Technology
     date_start: ''
     date_end: 2020-02-19
@@ -52,8 +52,8 @@ education:
     date_start: ''
     date_end: 2012-06-30
 work:
-  - position: Assistant Professor of Materials Science & Engineering
-    company_name: University of Washington
+  - position: Assistant Professor
+    company_name: Materials Science & Engineering, University of Washington
     company_url: ''
     company_logo: ''
     date_start: 2024-09-01
@@ -101,4 +101,4 @@ sections:
           parallax: false
 ---
 
-Mo Chen is an incoming Assistant Professor in the Department of Materials Science & Engineering at the University of Washington. As an experimentalist, his interests span Quantum Devices and Materials, Quantum Control and Sensing, and Quantum Computing. When he's not advancing the frontiers of quantum science, you might find him snowboarding in the mountains during the winter season.
+Mo Chen is an Assistant Professor in the Department of Materials Science & Engineering at the University of Washington. As an experimentalist, his interests span Quantum Devices and Materials, Quantum Control and Sensing, and Quantum Computing. When he's not advancing the frontiers of quantum science, you might find him snowboarding in the mountains during the winter season.
