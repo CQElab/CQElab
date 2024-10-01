@@ -10,6 +10,8 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240713204532-5660081624a8/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240901230003-ec9127eaf80b h1:7vqD96L5ixKv+5dI4757WWonZht9onu9dgHH2zanMRg=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240901230003-ec9127eaf80b/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240908170534-4f621dfa3a5a h1:wDXvsvFWd6uSSet48NeVw2WKdtpJ76+aXLcmYX+wfSc=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240908170534-4f621dfa3a5a/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240506221655-75a42222e9a5 h1:wMqusMEAbKr9MQCfeyK7sqMrRvkZheIVyRejhvbpaTY=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240506221655-75a42222e9a5/go.mod h1:+qBbqXbKT7M2nOeHQa5OrRXwQKpEx1RXpMGirHbT7HU=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240602152624-676a1b20ee9f h1:9N62Fq22GveA0zjmvzT7nCXa1m2QTXMf5UiIOBpNAdI=
